@@ -4,4 +4,4 @@ Person2=$2
  
 
  echo "$Person1: Hello $Person2"
- echo "$person2: Hi ${Person1}
+ echo "$Person2: Hi $Person1"
