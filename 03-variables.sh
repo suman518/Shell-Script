@@ -1,5 +1,5 @@
 #!/bin/bash
-Date=$(Date)
+Date=$(date)
 
 
 echo "Script starated executing :$Date"
