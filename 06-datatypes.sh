@@ -7,5 +7,4 @@ A=$1
 B=$2
 
 Sum=$(($A + $B))
- echo "Addition given of two numbers :$Sum"
-
+ echo "Addition of given  two numbers :$Sum"
